@@ -1,0 +1,44 @@
+# Dependencias
+dependencias/
+dependencias/*
+
+# Build artifacts
+build/
+build/*
+
+# Python cache
+__pycache__/
+__pycache__/*
+*.py[cod]
+*$py.class
+*.so
+
+# Agent directory
+agent/
+agent/*
+
+# Distribution / packaging
+dist/
+dist/*
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
