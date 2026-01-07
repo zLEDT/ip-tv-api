@@ -25,6 +25,9 @@ dist/*
 
 # Logs
 *.log
+#+artisan.py
+artisan.py
+
 
 # Environment variables
 .env
