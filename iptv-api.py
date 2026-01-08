@@ -57,6 +57,7 @@ def encender_canal():
     if(program == "OBS"):
         logo = channel["logo"]
         logo = f"{RUTA_LOGOS}\\{logo}"
+        "ASDFASDF"
         pid_nuevo = lanzar_obs(name,logo,url,id)
     else:
         comando = configurate_stream(ip,port,name,url,logo,db.stream_mode)
